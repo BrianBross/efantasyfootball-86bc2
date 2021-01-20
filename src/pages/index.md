@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: eFantasy Football
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: >
+      Fantasy Football for everyone!  You pick your roster, and each week we
+      build your game highlights based on REAL NFL DATA!
     actions:
       - label: Learn More
         url: /features
