@@ -3,7 +3,7 @@
     "palette": "green",
     "header": {
         "logo_img": "images/nachos.jpg",
-        "logo_img_alt": "Logo",
+        "logo_img_alt": "Nachos",
         "has_nav": true,
         "nav_links": [
             {
