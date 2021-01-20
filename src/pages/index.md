@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image: images/output.jpg
-    image_alt: App preview
+    image_alt: SemiFinal Playoff Game Recap
     title: eFantasy Football
     content: >
       Fantasy Football for everyone!  You pick your roster, and each week we
