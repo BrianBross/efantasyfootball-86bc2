@@ -98,7 +98,7 @@ sections:
   - section_id: recent-posts
     type: section_posts
     background: gray
-    title: Latest Posts
+    title: Last Week's Games
 meta_title: eFantasyFootball
 meta_description: Fantasy Football for everyone
 template: landing
