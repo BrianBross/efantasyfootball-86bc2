@@ -100,6 +100,6 @@ sections:
     background: gray
     title: Latest Posts
 meta_title: eFantasyFootball
-meta_description: ''
+meta_description: Fantasy Football for everyone
 template: landing
 ---
