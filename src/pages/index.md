@@ -55,7 +55,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: How The Games Happen
-        image: images/feature2.png
+        image: images/7_thumb.jpg
         image_alt: App users welcoming a new member
         content: >+
           Bacon ipsum dolor amet eiusmod hamburger sausage ribeye. Aliqua short
