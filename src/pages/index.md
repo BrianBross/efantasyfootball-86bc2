@@ -1,6 +1,14 @@
 ---
 title: eFantasy Football
 sections:
+  - section_id: call-to-action
+    type: section_cta
+    title: Sign me up
+    subtitle: Kielbasa frankfurter burgdoggen bacon.
+    actions:
+      - label: Get Started
+        url: /signup
+        style: primary
   - section_id: reviews
     type: section_reviews
     background: gray
@@ -103,14 +111,6 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-  - section_id: call-to-action
-    type: section_cta
-    title: Sign me up
-    subtitle: Kielbasa frankfurter burgdoggen bacon.
-    actions:
-      - label: Get Started
-        url: /signup
-        style: primary
   - section_id: recent-posts
     type: section_posts
     background: gray
