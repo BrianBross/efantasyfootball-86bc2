@@ -45,10 +45,14 @@ sections:
       - title: How The Games Happen
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >+
+          Bacon ipsum dolor amet eiusmod hamburger sausage ribeye. Aliqua short
+          ribs sirloin, ut meatball leberkas sunt et pork belly esse laborum
+          pork loin. Biltong nostrud ham, pariatur t-bone venison aute shoulder
+          aliqua mollit. Corned beef spare ribs ut meatloaf aute magna veniam
+          doner officia capicola ground round boudin kevin ribeye. Pastrami
+          culpa commodo porchetta, leberkas ribeye pork chop.
+
         actions:
           - label: Learn More
             url: /features
