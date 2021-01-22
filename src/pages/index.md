@@ -21,35 +21,6 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
-  - section_id: reviews
-    type: section_reviews
-    background: gray
-    title: Beta Testers
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
-    reviews:
-      - author: John Doe
-        avatar: images/review1.jpg
-        content: >-
-          Tri-tip bacon cow short ribs shoulder t-bone jowl ham leberkas
-          landjaeger pork belly rump kielbasa. Strip steak ham hock biltong,
-          rump pork loin ham sausage jowl ball tip tongue burgdoggen corned
-          beef.
-      - author: Jane Roe
-        avatar: images/review2.jpg
-        content: >-
-          Hamburger bacon chuck cow shankle drumstick alcatra. Spare ribs
-          biltong beef ribs flank buffalo jowl meatball tail pork ribeye
-          pastrami turkey sausage andouille venison.
-      - author: Richard Roe
-        avatar: images/review3.jpg
-        content: >-
-          Porchetta beef landjaeger frankfurter pork belly drumstick biltong.
-          Short ribs pork belly jerky fatback capicola shankle meatball shank,
-          landjaeger strip steak kielbasa corned beef short loin. Ribeye salami
-          chislic chuck alcatra, leberkas ground round brisket beef cupim pork
-          belly ham tenderloin tail.
   - section_id: features
     type: section_features
     background: gray
@@ -115,6 +86,35 @@ sections:
     type: section_posts
     background: gray
     title: Last Week's Games
+  - section_id: reviews
+    type: section_reviews
+    background: gray
+    title: Beta Testers
+    subtitle: >-
+      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
+      semper libero id sodales. 
+    reviews:
+      - author: John Doe
+        avatar: images/review1.jpg
+        content: >-
+          Tri-tip bacon cow short ribs shoulder t-bone jowl ham leberkas
+          landjaeger pork belly rump kielbasa. Strip steak ham hock biltong,
+          rump pork loin ham sausage jowl ball tip tongue burgdoggen corned
+          beef.
+      - author: Jane Roe
+        avatar: images/review2.jpg
+        content: >-
+          Hamburger bacon chuck cow shankle drumstick alcatra. Spare ribs
+          biltong beef ribs flank buffalo jowl meatball tail pork ribeye
+          pastrami turkey sausage andouille venison.
+      - author: Richard Roe
+        avatar: images/review3.jpg
+        content: >-
+          Porchetta beef landjaeger frankfurter pork belly drumstick biltong.
+          Short ribs pork belly jerky fatback capicola shankle meatball shank,
+          landjaeger strip steak kielbasa corned beef short loin. Ribeye salami
+          chislic chuck alcatra, leberkas ground round brisket beef cupim pork
+          belly ham tenderloin tail.
 meta_title: eFantasyFootball
 meta_description: Fantasy Football for everyone
 template: landing
