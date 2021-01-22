@@ -61,7 +61,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Picking Your Roster
-        image: images/feature3.png
+        image: images/5_thumb.jpg
         image_alt: App user profile preview
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
