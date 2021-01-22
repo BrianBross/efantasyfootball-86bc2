@@ -21,6 +21,10 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
+  - section_id: recent-posts
+    type: section_posts
+    background: gray
+    title: Last Week's Games
   - section_id: features
     type: section_features
     background: gray
@@ -82,10 +86,6 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: Last Week's Games
   - section_id: reviews
     type: section_reviews
     background: gray
