@@ -27,10 +27,14 @@ sections:
       - title: Game Highlight Videos
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >+
+          Spicy jalapeno ex spare ribs ipsum pig kevin salami sint in ea ut
+          consequat pariatur duis in chuck. Pastrami nostrud exercitation strip
+          steak, hamburger pig reprehenderit ham biltong esse ea beef excepteur
+          do. Nostrud sint incididunt bacon landjaeger est tenderloin ground
+          round officia lorem t-bone beef fugiat. Frankfurter aliqua consequat
+          salami nisi buffalo.
+
         actions:
           - label: Watch Now
             url: /features
