@@ -1,6 +1,18 @@
 ---
 title: eFantasy Football
 sections:
+  - section_id: hero
+    type: section_hero
+    image: images/output.jpg
+    image_alt: SemiFinal Playoff Game Recap
+    title: eFantasy Football
+    content: >
+      Fantasy Football for everyone!  You pick your roster, and each week we
+      build your game highlights based on REAL NFL DATA!
+    actions:
+      - label: Learn More
+        url: /features
+        style: primary
   - section_id: call-to-action
     type: section_cta
     title: Sign me up
@@ -38,18 +50,6 @@ sections:
           landjaeger strip steak kielbasa corned beef short loin. Ribeye salami
           chislic chuck alcatra, leberkas ground round brisket beef cupim pork
           belly ham tenderloin tail.
-  - section_id: hero
-    type: section_hero
-    image: images/output.jpg
-    image_alt: SemiFinal Playoff Game Recap
-    title: eFantasy Football
-    content: >
-      Fantasy Football for everyone!  You pick your roster, and each week we
-      build your game highlights based on REAL NFL DATA!
-    actions:
-      - label: Learn More
-        url: /features
-        style: primary
   - section_id: features
     type: section_features
     background: gray
