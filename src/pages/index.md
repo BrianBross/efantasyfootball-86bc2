@@ -105,7 +105,7 @@ sections:
           belly ham tenderloin tail.
   - section_id: call-to-action
     type: section_cta
-    title: 'I want to play, too!!!'
+    title: Sign me up
     subtitle: Kielbasa frankfurter burgdoggen bacon.
     actions:
       - label: Get Started
