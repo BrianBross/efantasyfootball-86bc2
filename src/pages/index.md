@@ -85,23 +85,28 @@ sections:
       - author: John Doe
         avatar: images/review1.jpg
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Tri-tip bacon cow short ribs shoulder t-bone jowl ham leberkas
+          landjaeger pork belly rump kielbasa. Strip steak ham hock biltong,
+          rump pork loin ham sausage jowl ball tip tongue burgdoggen corned
+          beef.
       - author: Jane Roe
         avatar: images/review2.jpg
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+          Hamburger bacon chuck cow shankle drumstick alcatra. Spare ribs
+          biltong beef ribs flank buffalo jowl meatball tail pork ribeye
+          pastrami turkey sausage andouille venison.
       - author: Richard Roe
         avatar: images/review3.jpg
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Porchetta beef landjaeger frankfurter pork belly drumstick biltong.
+          Short ribs pork belly jerky fatback capicola shankle meatball shank,
+          landjaeger strip steak kielbasa corned beef short loin. Ribeye salami
+          chislic chuck alcatra, leberkas ground round brisket beef cupim pork
+          belly ham tenderloin tail.
   - section_id: call-to-action
     type: section_cta
     title: 'I want to play, too!!!'
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Kielbasa frankfurter burgdoggen bacon.
     actions:
       - label: Get Started
         url: /signup
