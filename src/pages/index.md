@@ -18,8 +18,11 @@ sections:
     background: gray
     title: What is eFantasy Football?
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Spicy jalapeno pork chop salami bacon pork belly boudin, ham flank. Chuck
+      flank tail biltong andouille. Chuck turkey chislic boudin. Meatball
+      turducken chicken corned beef burgdoggen ham hock bacon boudin pork belly
+      tenderloin filet mignon salami sausage. Bacon drumstick short loin tongue
+      tail shoulder corned beef picanha bresaola chicken.
     features:
       - title: Game Highlight Videos
         image: images/feature1.png
